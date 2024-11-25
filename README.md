@@ -5,6 +5,6 @@ lab04 https://github.com/2303A51661/AIML/blob/main/LAB_AIML_4.ipynb
 lab05 https://github.com/2303A51661/AIML/blob/main/Assignment_5.ipynb
 lab06 https://github.com/2303A51661/AIML/blob/main/AIML_Assignment_6%20(1).ipynb
 lab07 https://github.com/2303A51661/AIML/blob/main/AIML_Assignment_7%20(1).ipynb
-lab08
+lab08 https://github.com/2303A51661/AIML/blob/main/AIML_Assignment_08%20(1).ipynb
 lab09
 lab10
